@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="76" viewBox="0 0 76 76">
+  <g id="Grupo_58440" data-name="Grupo 58440" transform="translate(-392 -3609)">
+    <rect id="Rectángulo_5540" data-name="Rectángulo 5540" width="76" height="76" transform="translate(392 3609)" fill="none"/>
+    <g id="suit" transform="translate(398 3615.006)">
+      <circle id="Elipse_228" data-name="Elipse 228" cx="2" cy="2" r="2" transform="translate(41 3)" fill="#ffde7e"/>
+      <path id="Trazado_102232" data-name="Trazado 102232" d="M47,15l-.621-2.485A2,2,0,0,0,44.438,11H41.562a2,2,0,0,0-1.94,1.515L39,15v3h8Z" fill="#ffde7e"/>
+      <path id="Trazado_102233" data-name="Trazado 102233" d="M57,47h4v4H55V49A2,2,0,0,1,57,47Z" transform="translate(116 98) rotate(180)" fill="#efefef"/>
+      <path id="Trazado_102234" data-name="Trazado 102234" d="M25,47h6v4H27a2,2,0,0,1-2-2Z" fill="#efefef"/>
+      <path id="Trazado_102235" data-name="Trazado 102235" d="M43,18l-9-1-6.943,3.857A4,4,0,0,0,25,24.354V47h6v7a2,2,0,0,0,2,2H43Z" fill="#faa"/>
+      <path id="Trazado_102236" data-name="Trazado 102236" d="M43,56H53a2,2,0,0,0,2-2V47h6V24.354a4,4,0,0,0-2.057-3.5L52,17l-9,1Z" fill="#f2a2a2"/>
+      <path id="Trazado_102237" data-name="Trazado 102237" d="M52,17,43,35,34,17l9,1Z" fill="#e2e2e2"/>
+      <path id="Trazado_102238" data-name="Trazado 102238" d="M47.636,14.91,43,18l2.368,3.158a1,1,0,0,0,1.44.168L52,17l-1.841-1.841a2,2,0,0,0-2.524-.25Z" fill="#efefef"/>
+      <path id="Trazado_102239" data-name="Trazado 102239" d="M38.364,14.91,43,18l-2.368,3.158a1,1,0,0,1-1.44.168L34,17l1.841-1.841a2,2,0,0,1,2.524-.25Z" fill="#efefef"/>
+      <path id="Trazado_102240" data-name="Trazado 102240" d="M41,56h4v6H41Z" fill="#d5d5d5"/>
+      <path id="Trazado_102241" data-name="Trazado 102241" d="M3,36H19a2,2,0,0,1,2,2v4a2,2,0,0,1-2,2H3Z" transform="translate(24 80) rotate(180)" fill="#e2e2e2"/>
+      <rect id="Rectángulo_5669" data-name="Rectángulo 5669" width="27" height="6" rx="2" transform="translate(30 61) rotate(180)" fill="#efefef"/>
+      <path id="Trazado_102242" data-name="Trazado 102242" d="M25,33a4,4,0,0,1,4,4v9a2,2,0,0,1-2,2H23a2,2,0,0,1-2-2V37A4,4,0,0,1,25,33Z" transform="translate(50 81) rotate(180)" fill="#efefef"/>
+      <path id="Trazado_102243" data-name="Trazado 102243" d="M6,44h9V55H6Z" transform="translate(21 99) rotate(180)" fill="#d5d5d5"/>
+      <path id="Trazado_102244" data-name="Trazado 102244" d="M59.428,19.983l-6.82-3.79-1.742-1.742a3,3,0,0,0-3.144-.687l-.373-1.493A3,3,0,0,0,44.438,10H44V7.816a3,3,0,1,0-2,0V10h-.438a3,3,0,0,0-2.911,2.272l-.373,1.492a3,3,0,0,0-3.144.688l-1.742,1.742-6.82,3.79A5,5,0,0,0,24,24.354V29h2V24.354a3,3,0,0,1,1.543-2.622l6.03-3.35L42,35.236V55H33v2h7v5h2V57h2v5h2V57h7a3,3,0,0,0,3-3V52h3a3,3,0,0,0,3-3V24.354a5,5,0,0,0-2.572-4.37ZM43,4a1,1,0,1,1-1,1,1,1,0,0,1,1-1Zm0,28.764L37.033,20.829l1.519,1.266a2.011,2.011,0,0,0,1.283.463,1.826,1.826,0,0,0,.23-.014,2,2,0,0,0,1.366-.786L43,19.666l1.568,2.092a2.007,2.007,0,0,0,1.367.786,1.826,1.826,0,0,0,.23.014,2.012,2.012,0,0,0,1.283-.463l1.518-1.265Zm6.452-16.9,1.066,1.066-4.35,3.626-1.734-2.312,3.756-2.5a1,1,0,0,1,1.262.125ZM41.562,12h2.877a1,1,0,0,1,.97.757l.522,2.088L43,16.8l-2.93-1.954.522-2.086a1,1,0,0,1,.97-.758Zm-5.014,3.866a1,1,0,0,1,1.262-.125l3.756,2.5-1.734,2.312-4.35-3.625ZM60,49a1,1,0,0,1-1,1H56V48h4Zm-4-3V27H54V54a1,1,0,0,1-1,1H44V35.236l8.427-16.855,6.03,3.35A3,3,0,0,1,60,24.353V46Z"/>
+      <circle id="Elipse_229" data-name="Elipse 229" cx="1" cy="1" r="1" transform="translate(38 39)"/>
+      <circle id="Elipse_230" data-name="Elipse 230" cx="1" cy="1" r="1" transform="translate(38 44)"/>
+      <circle id="Elipse_231" data-name="Elipse 231" cx="1" cy="1" r="1" transform="translate(38 49)"/>
+      <path id="Trazado_102245" data-name="Trazado 102245" d="M5,62H28a3,3,0,0,0,3-3V57a3,3,0,0,0-3-3H16V45h4.1A5.015,5.015,0,0,0,24,48.9V52h2V48.9A5.008,5.008,0,0,0,30,44V35a3,3,0,0,0-3-3H23a3,3,0,0,0-3,3H14V31H12v4H8V31H6v4H5a3,3,0,0,0-3,3v4a3,3,0,0,0,3,3v9a3,3,0,0,0-3,3v2a3,3,0,0,0,3,3ZM23,34h4a1,1,0,0,1,1,1v9a3,3,0,1,1-6,0V35a1,1,0,0,1,1-1ZM4,42V38a1,1,0,0,1,1-1H20v6H5a1,1,0,0,1-1-1Zm3,3h7v9H7ZM4,57a1,1,0,0,1,1-1H28a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1H5a1,1,0,0,1-1-1Z"/>
+    </g>
+  </g>
+</svg>
